@@ -1,18 +1,18 @@
 export default {
   /** -------------------------------------------------以下必须修改----------------------------------------------------- */
 
-  githubName: "yunyuyuan",                                     // 必须修改，github账户名
+  githubName: "chapuorg",                                     // 必须修改，github账户名
 
 
 
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
-  title: "yun yu yuan",                                        // 网站标题
-  nickName: "云与原",                                           // 昵称
-  domain: "https://blog.yunyuyuan.net",                        // rss域名
-  SEO_title: " - yunyuyuan blog",                              // 搜索引擎显示的标题
-  SEO_description: "云与原的博客，书写值得书写的东西",               // description meta header
-  SEO_keywords: "yunyuyuan,yunyuyuan's blog,云与原,云与原的博客", // keywords meta header
+  title: "茶谱",                                        // 网站标题
+  nickName: "吃茶去",                                           // 昵称
+  domain: "https://chapu.org",                        // rss域名
+  SEO_title: " - 茶谱",                              // 搜索引擎显示的标题
+  SEO_description: "吃茶去",               // description meta header
+  SEO_keywords: "茶谱,吃茶去, // keywords meta header
   CloudflareAnalyze: "",                                       // cloudflare的统计，https://developers.cloudflare.com/analytics/web-analytics
   CommentRepoId: "",                                           // https://giscus.app/zh-CN
   CommentDiscussionCategoryId: "",                             // https://giscus.app/zh-CN
